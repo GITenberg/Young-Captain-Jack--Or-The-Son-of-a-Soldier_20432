@@ -1,0 +1,46 @@
+_repo: Young-Captain-Jack--Or-The-Son-of-a-Soldier_20432
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  authors:
+  - agent_name: Stratemeyer, Edward
+    aliases:
+    - Bonehill, Ralph
+    - Winfield, Arthur M.
+    - Steward, Ray M.
+    - Bonehill, Captain Ralph
+    birthdate: 1862
+    deathdate: 1930
+    gutenberg_agent_id: '1626'
+    url: http://www.gutenberg.org/2009/agents/1626
+    wikipedia: http://en.wikipedia.org/wiki/Edward_Stratemeyer
+  - agent_name: Alger, Horatio, Jr.
+    aliases:
+    - Starr, Julian
+    - Putnam, Arthur Lee
+    - Alger, Horatio
+    - Jr., Horatio Alger
+    - Preston, Charles F.
+    birthdate: 1832
+    deathdate: 1899
+    gutenberg_agent_id: '168'
+    url: http://www.gutenberg.org/2009/agents/168
+    wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
+description: 'Images of the original pages are available through Internet Archive/American
+  Libraries. See: http://www.archive.org/details/youngcaptainjack00algerich'
+gutenberg_bookshelf: Children's Fiction
+gutenberg_issued: '2007-01-23'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '20432'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Juvenile fiction'
+title: Young Captain Jack; Or, The Son of a Soldier
+url: http://www.gutenberg.org/ebooks/20432
