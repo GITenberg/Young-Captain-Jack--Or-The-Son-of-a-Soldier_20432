@@ -30,6 +30,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Horatio_Alger,_Jr.
 description: 'Images of the original pages are available through Internet Archive/American
   Libraries. See: http://www.archive.org/details/youngcaptainjack00algerich'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/20432#Young-Captain-Jack--Or-The-Son-of-a-Soldier
 gutenberg_bookshelf: Children's Fiction
 gutenberg_issued: '2007-01-23'
 gutenberg_type: Text
